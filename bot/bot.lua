@@ -251,25 +251,9 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {219339258,119989724,221176886,65609166,235549912,175636120,239832443},--Sudo users
+    sudo_users = {213254379},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Influence v3
- Our Team :)⬇️⬇️
- @mr_influence [Mobin] [219339258] {Founder & Developer}
- @shahab_safaei [shahab] [119989724] {Developer}
- @vIRusTM_founder [Amour] [221176886] {Developer}
- @UnFriendlly [Parham] [65609166] {Developer}
- @The_N_I_S [Arshia] [235549912] {Manager & Sudo}
- @Ww_Developer_wW [Pouria] [175636120] {Sudo}
- @DrCyber_MrVersatile [Dr.cyber] [239832443] {Sudo}
- @IrHaackAdmin [arian]
- 
- 
- Our channel :)⬇️⬇️
- @Influence_Team
- 
- Our website :)⬇️⬇️
- Soon]],
+    about_text = [[ wirted by @root08]],
     help_text_realm = [[
 Realm Commands:
 
